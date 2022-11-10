@@ -1,0 +1,22 @@
+{
+  "name": "pickingsalvar",
+  "version": "1.0.0",
+  "description": "Software de auxilio de picking e etiquetagem de itens para funcionários do galpão logístico da ONG SALVAR.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffersonAraujo2012/PickingSALVAR.git"
+  },
+  "author": "Jefferson Araújo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffersonAraujo2012/PickingSALVAR/issues"
+  },
+  "homepage": "https://github.com/jeffersonAraujo2012/PickingSALVAR#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
